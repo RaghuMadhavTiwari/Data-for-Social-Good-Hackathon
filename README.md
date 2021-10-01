@@ -34,7 +34,7 @@ The 2019-20 National Family Health Survey (NFHS-5), the fifth in the NFHS series
 ![image](https://user-images.githubusercontent.com/65697330/135650093-3fc18075-8cde-4be6-9c34-e32ee6b62875.png)
 
 #### 🖥️ Our Dashboard: 
-[Link](https://www.canva.com/design/DAErk666_tk/HdCMpJT-LgD8DxO7qdrySg/view utm_content=DAErk666_tk&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
+[Link](https://www.canva.com/design/DAErk666_tk/HdCMpJT-LgD8DxO7qdrySg/viewutm_content=DAErk666_tk&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
 
 #### 🎥 Our video Submission: [Link]()
 
