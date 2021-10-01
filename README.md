@@ -7,7 +7,7 @@ Computational Social Sciences Program at the University of Massachusetts, Amhers
  The resouces for data can be seen [here](https://drive.google.com/file/d/1bUJaJajo6UNAlZV8O7ZjMyldrOI-HEHd/view)
 
 ## 🚀 AIM OF THE HACKATHON
-While Data analytics in the mainstream tech industry has largely been perceived as a technology for business-driven decisions, this hackathon aims to inculcating and sensitizing young minds to using data for social good by analysing vast data resources to generate evidence-based insights The focus of the Hackathon would rely on the below-mentioned SDGs. The goal of the hackathon is to visualize the progress towards Sustainable Development Goals (SDGs) using the latest prevailing datasets pertaining to the state of Telangana, by driving insights that could be recommended to the Government/Civil Societies/NGOs/Think Tanks/ Educational & Research Institutions, that can help in driving their decisions.
+While Data analytics in the mainstream tech industry has largely been perceived as a technology for business-driven decisions, this hackathon aims to inculcate and sensitize young minds to use data for social good by analysing vast data resources to generate evidence-based insights The focus of the Hackathon would rely on the below-mentioned SDGs. The goal of the hackathon is to visualize the progress towards Sustainable Development Goals (SDGs) using the latest prevailing datasets pertaining to the state of Telangana, by driving insights that could be recommended to the Government/Civil Societies/NGOs/Think Tanks/ Educational & Research Institutions, that can help in driving their decisions.
 
 Out of the various challenges and tracks, the following was worked upon:
 
