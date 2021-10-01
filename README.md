@@ -1,9 +1,12 @@
 # Data-for-Social-Good-Hackathon
 
-This repo is created as a part of Data for Social Good Hackathon 2021, organised by Telangana State Innovation Cell, Government of Telangana and the Data Analytics and
+⚡⚡ This repo is created as a part of Data for Social Good Hackathon 2021, organised by Telangana State Innovation Cell, Government of Telangana and the Data Analytics and
 Computational Social Sciences Program at the University of Massachusetts, Amherst.
 
-## AIM OF THE HACKATHON
+## 📖 Resources
+ The resouces for data can be seen [here](https://drive.google.com/file/d/1bUJaJajo6UNAlZV8O7ZjMyldrOI-HEHd/view)
+
+## 🚀 AIM OF THE HACKATHON
 While Data analytics in the mainstream tech industry has largely been perceived as a technology for business-driven decisions, this hackathon aims to inculcating and sensitizing young minds to using data for social good by analysing vast data resources to generate evidence-based insights The focus of the Hackathon would rely on the below-mentioned SDGs. The goal of the hackathon is to visualize the progress towards Sustainable Development Goals (SDGs) using the latest prevailing datasets pertaining to the state of Telangana, by driving insights that could be recommended to the Government/Civil Societies/NGOs/Think Tanks/ Educational & Research Institutions, that can help in driving their decisions.
 
 Out of the various challenges and tracks, the following was worked upon:
@@ -30,9 +33,11 @@ The 2019-20 National Family Health Survey (NFHS-5), the fifth in the NFHS series
 #### 4. HyperTension 
 ![image](https://user-images.githubusercontent.com/65697330/135650093-3fc18075-8cde-4be6-9c34-e32ee6b62875.png)
 
-Our Dashboard: [Link]()
+#### 🖥️ Our Dashboard: [Link]()
+#### 🎥 Our video Submission: [Link]()
 
-Team:<br>
+## ⚒️Contributors:<br>
+The fellows who undertook this program are:<br>
 [Raghu Madhav Tiwari](https://github.com/RaghuMadhavTiwari)<br>
 [Geetanjali](https://github.com/GeetanjaliWadhwa)<br>
 Anisha Kalra<br>
